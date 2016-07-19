@@ -1,0 +1,9 @@
+{
+  "name": "maps-distance-matrix",
+  "dependencies": {
+    "request": "registry:npm/request#2.69.0+20160428223725"
+  },
+  "globalDependencies": {
+    "node": "registry:dt/node#6.0.0+20160709114037"
+  }
+}
